@@ -4,7 +4,7 @@
 
 📁 **Description**  
 
-J'ai développé cette version de l'API Sage 300 ERP Mobile Workflow en PHP pendant mon mandat chez [Vision Business Solution](https://vbs-solutions.com/), spécialement conçue pour répondre aux besoins du secteur minier. Elle offre la possibilité d'approuver des demandes, des factures et des commandes via des appareils mobiles, simplifiant ainsi les opérations et augmentant l'efficacité. Le suivi en temps réel vous permet de prendre des décisions éclairées. Modernisez vos flux de travail dès maintenant.
+J'ai développé cette version de l'API Sage 300 ERP Mobile Workflow en PHP pendant mon mandat chez [Vision Business Solution](https://vbs-solutions.com/), spécialement conçue pour répondre aux besoins du secteur minier. Elle offre la possibilité d'approuver des demandes, des factures et des commandes via des appareils mobiles, simplifiant ainsi les opérations et augmentant l'efficacité. Le suivi en temps réel vous permet de prendre des décisions éclairées.
 
 🧑🏻‍💻 **Développement**  
 
