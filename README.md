@@ -8,7 +8,7 @@ J'ai développé cette version de l'API Sage 300 ERP Mobile Workflow en PHP pend
 
 🧑🏻‍💻 **Développement**  
 
-Ce projet a été conçu pendant mon passage chez Vision Business Solution et est basé sur PHP, garantissant robustesse et évolutivité. L'API est développée avec une approche d'intégration simple en tête. Qu'il s'agisse de demandes d'approbation ou de gestion de factures, elle optimise les processus Sage 300 ERP pour le secteur minier, améliorant ainsi l'efficacité opérationnelle.
+Ce projet a été conçu pendant mon passage chez [Vision Business Solution](https://vbs-solutions.com/) et est basé sur PHP, garantissant robustesse et évolutivité. L'API est développée avec une approche d'intégration simple en tête. Qu'il s'agisse de demandes d'approbation ou de gestion de factures, elle optimise les processus Sage 300 ERP pour le secteur minier, améliorant ainsi l'efficacité opérationnelle.
 
 🎁 **Démo**  
 
